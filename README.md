@@ -6,7 +6,7 @@ Sublime 编辑器初始化，常用插件，主题，字体等设置.
 - phpfmt
 ```
 {
-	"version": 1,
+    "version": 1,
     "php_bin": "/usr/local/Cellar/php70/7.0.22_14/bin/php", // Path for PHP executable, e.g. "/usr/lib/php" or "C:/Program Files/PHP/php.exe". If empty, uses command "php" from system environments
     "indent_with_space": true,
     "smart_linebreak_after_curly": true,
@@ -45,12 +45,12 @@ Sublime 编辑器初始化，常用插件，主题，字体等设置.
 ## Sublime Setting
 ```
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"font_size": 15,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"translate_tabs_to_spaces": true,
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+    "font_size": 15,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
 }
 ```
